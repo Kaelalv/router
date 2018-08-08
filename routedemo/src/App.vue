@@ -16,8 +16,9 @@ export default {
 </script>
 
 <style>
+  * { padding:0; margin:0; border:none;}
   #app {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     overflow: hidden;
   }
